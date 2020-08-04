@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ISAC", "ISAC\ISAC.pyproj", "{96B422A4-6407-48FB-AFAD-4B28D9D7EC7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96B422A4-6407-48FB-AFAD-4B28D9D7EC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B422A4-6407-48FB-AFAD-4B28D9D7EC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FD0F09E-73CD-444A-BA44-A2480067A983}
+	EndGlobalSection
+EndGlobal
